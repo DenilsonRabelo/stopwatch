@@ -1,0 +1,32 @@
+*{
+    margin: 5px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+
+button{
+    border-radius: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 40px;
+}
+
+.max-width{
+    text-align: center;
+}
+
+#contador{
+    height: 15vh;
+    margin-top: 20vh;
+    align-content: center;
+    justify-content: center;
+}
+
+.tema{
+    text-align: center;
+}
+
+
